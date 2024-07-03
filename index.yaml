@@ -1,7 +1,7 @@
 apiVersion: v1
 entries:
   user-demo:
-          - created: 2024-07-03T18:23:20Z00:00
+    - created: 2024-07-03T18:23:20Z00:00
       description: Deploy a basic user-demo pod
       digest: 50713f30c9963b5dd9fb61563e3854c07e3f2519d262975cc5653e99b27537d7
       home: https://helm.sh/helm
